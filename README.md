@@ -7,7 +7,9 @@ Accepted workshop submissions:
 
     Beyond the Imitation Game: Extending Benchmarks for Language Models
 > https://github.com/google/BIG-bench/tree/main/bigbench/benchmark_tasks/implicit_relations
+
 > https://github.com/google/BIG-bench/tree/main/bigbench/benchmark_tasks/fantasy_reasoning
+
 > https://github.com/google/BIG-bench/tree/main/bigbench/benchmark_tasks/metaphor_understanding
 - BNAIC/BENELEARN 2020 (Author)
 
