@@ -1,5 +1,5 @@
 - Hi, I’m Jelle Bosscher.
-- I'm currently working as a Data Engineer after graduating from the Master of Logic this summer.
+- I'm currently working as a Machine Learning Engineer for Stedin.
 - I'm interested in most things AI, but particularly General AI, Assistants, Knowledge Representation and Natural Language Processing.
 
 Accepted workshop submissions:
