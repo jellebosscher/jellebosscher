@@ -3,9 +3,11 @@
 - I'm interested in most things AI, but particularly General AI, Assistants, Knowledge Representation and Natural Language Processing.
 
 Accepted workshop submissions:
-- Big Bench (Contributor): 
-
+- Big Bench (Contributor and Co-Author): 
     Beyond the Imitation Game: Extending Benchmarks for Language Models
+    Paper: https://arxiv.org/abs/2206.04615
+
+    Tasks:
     > https://github.com/google/BIG-bench/tree/main/bigbench/benchmark_tasks/implicit_relations
 
     > https://github.com/google/BIG-bench/tree/main/bigbench/benchmark_tasks/fantasy_reasoning
